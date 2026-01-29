@@ -18,7 +18,7 @@
 
 .container2 {
     background-color:  orange;
-    width: 250px;
+    width: 200px;
     height: 200pxpx;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
@@ -45,13 +45,15 @@
     flex-direction: column;
     align-items: center;
     width: 100%;
+    height: 150px;
 }
 
 .parent3 {
     display: flex;
     flex-direction: row; 
-    width: 40%; 
+    width: 70%; 
     justify-content: center;
+    
 }
 
 
@@ -95,7 +97,7 @@
 .s{
     background-color: tomato;
     color : white;
-    width: 250px;
+    width: 200px;
     height: 30px;
     text-align: center;
     padding-top: 5px;
@@ -105,7 +107,7 @@
 .navitem {
     background-color: rgb(23, 164, 127);
     color : white;
-    width: 200px;
+    width: 150px;
     height: 30px;
     margin-top: 10px;
     text-align: center;
@@ -115,7 +117,7 @@
 .item {
     background-color: rgb(23, 164, 127);
     color : white;
-    width: 200px;
+    width: 150px;
     height: 30px;
     margin-top: 5px;
     text-align: center;
@@ -134,7 +136,7 @@
     display: flex;
     background-color: red;
     color : white;
-    width: 100%;
+    width: 90%;
     height: 25px;
     text-align: center;
     padding: 3px;
@@ -145,7 +147,7 @@
 .ga {
     background-color: blueviolet;
     color: white;
-    width: 200px;
+    width: 70%;
     height: 50px;
     text-align: center;
     padding: 4%;
@@ -157,7 +159,7 @@
 .w {
     background-color: purple;
     color: white;
-    width: 200px;
+    width: 70%;
     height: 50px;
     text-align: center;
     padding: 4%;
@@ -169,17 +171,17 @@
     background-color: rgb(151, 151, 68);
     margin-top: 1px;
     color: white;
-    width: 100%;
+    width: 90%;
     height: 25px;
     padding: 3px;
-   
+    margin-left: 50px;
 }
 
 .c1 {
     background-color: brown;
     color: white;
     width: 100px;
-    margin-left: 2%;
+    margin-left: 5%;
     margin-top: 5px;
     height: 40px;
     text-align: center;
@@ -205,7 +207,7 @@
     background-color: rgb(21, 54, 245);
     color: white;
     width: 100px;
-    margin-right: 2%;
+    margin-right: 5%;
     margin-top: 5px;
     height: 40px;
     text-align: center;
